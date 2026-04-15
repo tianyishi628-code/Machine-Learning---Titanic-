@@ -1,0 +1,40 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="colorlog" />
+          <option value="dash" />
+          <option value="dash_bootstrap_components" />
+          <option value="dash_core_components" />
+          <option value="dash_daq" />
+          <option value="dash_database" />
+          <option value="dash_extensions" />
+          <option value="dash_html_components" />
+          <option value="dash_table" />
+          <option value="Flask" />
+          <option value="itsdangerous" />
+          <option value="Jinja2" />
+          <option value="kaleido" />
+          <option value="MarkupSafe" />
+          <option value="numpy" />
+          <option value="numpy_ext" />
+          <option value="openpyxl" />
+          <option value="pandas" />
+          <option value="plotly" />
+          <option value="pyxirr" />
+          <option value="reportlab" />
+          <option value="scipy" />
+          <option value="selenium" />
+          <option value="SQLAlchemy" />
+          <option value="statsmodels" />
+          <option value="waitress" />
+          <option value="Werkzeug" />
+          <option value="xhtml2pdf" />
+          <option value="xlrd" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
