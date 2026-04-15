@@ -104,16 +104,18 @@ python "Titanic - Machine Learning.py"
 ## Visualizations
 
 **EDA — Survival Patterns**
+<img width="1900" height="1214" alt="eda_survival_patterns" src="https://github.com/user-attachments/assets/e5498420-ae72-44a2-b528-ab0a0c199e5c" />
 
-![EDA Survival Patterns](eda_survival_patterns.png)
 
 **Correlation Heatmap**
 
-![Correlation Heatmap](eda_correlation_heatmap.png)
+<img width="795" height="700" alt="eda_correlation_heatmap" src="https://github.com/user-attachments/assets/00a50936-b092-4c4b-94af-aec18c637ec5" />
+
 
 **Model Evaluation**
+<img width="1954" height="590" alt="model_evaluation" src="https://github.com/user-attachments/assets/af083bb1-00b7-475e-b24b-ecd9efc69b0a" />
 
-![Model Evaluation](model_evaluation.png)
+
 
 ---
 
